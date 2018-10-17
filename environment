@@ -1,0 +1,3 @@
+Hot reload when devdelopment on nodejs: Use nodemon
+$ npm install nodemon -g
+$ nodemon app.js
